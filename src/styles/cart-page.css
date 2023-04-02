@@ -14,7 +14,7 @@ th {
   cursor: pointer;
 }
 
-.cart__page-btn button a:hover {
+.addTOCart__btn a {
   color: #fff;
 }
 
